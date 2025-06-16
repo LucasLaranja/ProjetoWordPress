@@ -1,7 +1,5 @@
 # Projeto WordPress com AWS e Docker - PB Compass UOL
 
-![Imagem](/imagens/image.png)
-
 ## Descrição
 
 ### Instalação e configuração do DOCKER ou CONTAINERD no host EC2;  
