@@ -1,4 +1,4 @@
-# Projeto WordPress com AWS e Docker - PB Compass UOL
+# Projeto WordPress com AWS e Docker
 
 ## Descrição
 
