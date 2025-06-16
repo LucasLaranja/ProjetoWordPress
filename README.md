@@ -1,5 +1,7 @@
 # Projeto WordPress com AWS e Docker
 
+![image](/imagens/image.webp)
+
 ## Descrição
 
 ### Instalação e configuração do DOCKER ou CONTAINERD no host EC2;  
